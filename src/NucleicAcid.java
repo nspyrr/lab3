@@ -43,7 +43,7 @@ public class NucleicAcid {
         this.density = density;
     }
 
-    public void print(){
+    public void nucPrint(){
         System.out.printf("%n");
         System.out.printf("[%s]%n", name);
         System.out.printf("Chemical Formula - [%s]%n", chemicalFormula);
