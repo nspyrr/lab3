@@ -1,0 +1,29 @@
+Dylan Untalan
+Java Programming - CIS D035A
+Assignment 3
+Due: Sunday; February 18, 2024
+Submit: Saturday; February 17, 2024
+
+-- Lab 3 - Object-Oriented Programming --
+In the native Windows File Explorer, inside the extracted ZIP file
+type "cmd" in the filepath text area to open a command prompt window.
+
+Type "javac -d . NucleicAcid.java" to compile the NucleicAcid class file.
+Type "javac -d . DNADriver.java" to compile the DNADriver class file.
+Type "javac -d . DNA.java" to compile the DNA class file.
+// This creates a new directory and with compiled class files for the command shell to access.
+Type "java lab3.DNADriver" to execute the program.
+
+
+----  Instructions for Use and Review  ----
+The program will query the user for a DNA string/strand.
+
+At the end of the prompt, the DNADriver class will send the strand to the DNA class and parse the information
+and create the DNA helical structure from left to right and right to left. The DNA class will
+print out the properties, highest molar mass, and total densities in both helical arrays.
+
+Ensure that your inputs are stored and displayed properly without errors.
+Ensure that the code executes without error.
+
+---- Test Runs ----
+Test runs are located in testruns.txt.

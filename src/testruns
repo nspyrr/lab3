@@ -1,0 +1,1388 @@
+Run 1 - AGCCTAGGATCAG
+[?] - Please enter a sequence of nucleotides: AGCCTAGGATCAG
+[!] - Printing Helix Properties...
+[!] - Printing: Left to Right Helix Nucleotide Properties...
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+[!] - Completed!
+[!] - Printing: Right to Left Helix Nucleotide Properties...
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+[!] - Completed!
+[!] - Printing Highest Total Molar Mass...
+[!] - Printing: Molar Mass & Indices...
+[!] - Printing: LtoR Helix Masses & Indices...
+The highest molar mass in the Left to Right helix at 0  is... 135.13
+The highest molar mass in the Left to Right helix at 1  is... 151.13
+The highest molar mass in the Left to Right helix at 2  is... 151.13
+The highest molar mass in the Left to Right helix at 3  is... 151.13
+The highest molar mass in the Left to Right helix at 4  is... 151.13
+The highest molar mass in the Left to Right helix at 5  is... 151.13
+The highest molar mass in the Left to Right helix at 6  is... 151.13
+The highest molar mass in the Left to Right helix at 7  is... 151.13
+The highest molar mass in the Left to Right helix at 8  is... 151.13
+The highest molar mass in the Left to Right helix at 9  is... 151.13
+The highest molar mass in the Left to Right helix at 10  is... 151.13
+The highest molar mass in the Left to Right helix at 11  is... 151.13
+The highest molar mass in the Left to Right helix at 12  is... 151.13
+The highest molar mass in the Left to Right helix is 151.13 at index 1
+[!] - Completed!
+[!] - Printing: RtoL Helix Masses & Indices...
+The highest molar mass in the Right to Left helix at 0  is... 151.13
+The highest molar mass in the Right to Left helix at 1  is... 151.13
+The highest molar mass in the Right to Left helix at 2  is... 151.13
+The highest molar mass in the Right to Left helix at 3  is... 151.13
+The highest molar mass in the Right to Left helix at 4  is... 151.13
+The highest molar mass in the Right to Left helix at 5  is... 151.13
+The highest molar mass in the Right to Left helix at 6  is... 151.13
+The highest molar mass in the Right to Left helix at 7  is... 151.13
+The highest molar mass in the Right to Left helix at 8  is... 151.13
+The highest molar mass in the Right to Left helix at 9  is... 151.13
+The highest molar mass in the Right to Left helix at 10  is... 151.13
+The highest molar mass in the Right to Left helix at 11  is... 151.13
+The highest molar mass in the Right to Left helix at 12  is... 151.13
+The highest molar mass in the Right to Left helix is 151.13 at index 1
+[!] - Completed!
+[!] - Printing Total Density...
+[!] - Printing: Left to Right Helix Density...
+[*] - The total density from left to right is... 22.296001 g/cm3.
+[!] - Printing: Right to Left Helix Density...
+[*] - The total density from right to left is... 43.188 g/cm3.
+
+Process finished with exit code 0
+
+Run 2 - AGCCTAGGATCTAGGATCAG
+[?] - Please enter a sequence of nucleotides: AGCCTAGGATCTAGGATCAG
+[!] - Printing Helix Properties...
+[!] - Printing: Left to Right Helix Nucleotide Properties...
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+[!] - Completed!
+[!] - Printing: Right to Left Helix Nucleotide Properties...
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+[!] - Completed!
+[!] - Printing Highest Total Molar Mass...
+[!] - Printing: Molar Mass & Indices...
+[!] - Printing: LtoR Helix Masses & Indices...
+The highest molar mass in the Left to Right helix at 0  is... 135.13
+The highest molar mass in the Left to Right helix at 1  is... 151.13
+The highest molar mass in the Left to Right helix at 2  is... 151.13
+The highest molar mass in the Left to Right helix at 3  is... 151.13
+The highest molar mass in the Left to Right helix at 4  is... 151.13
+The highest molar mass in the Left to Right helix at 5  is... 151.13
+The highest molar mass in the Left to Right helix at 6  is... 151.13
+The highest molar mass in the Left to Right helix at 7  is... 151.13
+The highest molar mass in the Left to Right helix at 8  is... 151.13
+The highest molar mass in the Left to Right helix at 9  is... 151.13
+The highest molar mass in the Left to Right helix at 10  is... 151.13
+The highest molar mass in the Left to Right helix at 11  is... 151.13
+The highest molar mass in the Left to Right helix at 12  is... 151.13
+The highest molar mass in the Left to Right helix at 13  is... 151.13
+The highest molar mass in the Left to Right helix at 14  is... 151.13
+The highest molar mass in the Left to Right helix at 15  is... 151.13
+The highest molar mass in the Left to Right helix at 16  is... 151.13
+The highest molar mass in the Left to Right helix at 17  is... 151.13
+The highest molar mass in the Left to Right helix at 18  is... 151.13
+The highest molar mass in the Left to Right helix at 19  is... 151.13
+The highest molar mass in the Left to Right helix is 151.13 at index 1
+[!] - Completed!
+[!] - Printing: RtoL Helix Masses & Indices...
+The highest molar mass in the Right to Left helix at 0  is... 151.13
+The highest molar mass in the Right to Left helix at 1  is... 151.13
+The highest molar mass in the Right to Left helix at 2  is... 151.13
+The highest molar mass in the Right to Left helix at 3  is... 151.13
+The highest molar mass in the Right to Left helix at 4  is... 151.13
+The highest molar mass in the Right to Left helix at 5  is... 151.13
+The highest molar mass in the Right to Left helix at 6  is... 151.13
+The highest molar mass in the Right to Left helix at 7  is... 151.13
+The highest molar mass in the Right to Left helix at 8  is... 151.13
+The highest molar mass in the Right to Left helix at 9  is... 151.13
+The highest molar mass in the Right to Left helix at 10  is... 151.13
+The highest molar mass in the Right to Left helix at 11  is... 151.13
+The highest molar mass in the Right to Left helix at 12  is... 151.13
+The highest molar mass in the Right to Left helix at 13  is... 151.13
+The highest molar mass in the Right to Left helix at 14  is... 151.13
+The highest molar mass in the Right to Left helix at 15  is... 151.13
+The highest molar mass in the Right to Left helix at 16  is... 151.13
+The highest molar mass in the Right to Left helix at 17  is... 151.13
+The highest molar mass in the Right to Left helix at 18  is... 151.13
+The highest molar mass in the Right to Left helix at 19  is... 151.13
+The highest molar mass in the Right to Left helix is 151.13 at index 1
+[!] - Completed!
+[!] - Printing Total Density...
+[!] - Printing: Left to Right Helix Density...
+[*] - The total density from left to right is... 33.892002 g/cm3.
+[!] - Printing: Right to Left Helix Density...
+[*] - The total density from right to left is... 65.729996 g/cm3.
+
+Process finished with exit code 0
+
+Run 3 - AGCCTATAGGATCAG
+[?] - Please enter a sequence of nucleotides: AGCCTATAGGATCAG
+[!] - Printing Helix Properties...
+[!] - Printing: Left to Right Helix Nucleotide Properties...
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+[!] - Completed!
+[!] - Printing: Right to Left Helix Nucleotide Properties...
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+[!] - Completed!
+[!] - Printing Highest Total Molar Mass...
+[!] - Printing: Molar Mass & Indices...
+[!] - Printing: LtoR Helix Masses & Indices...
+The highest molar mass in the Left to Right helix at 0  is... 135.13
+The highest molar mass in the Left to Right helix at 1  is... 151.13
+The highest molar mass in the Left to Right helix at 2  is... 151.13
+The highest molar mass in the Left to Right helix at 3  is... 151.13
+The highest molar mass in the Left to Right helix at 4  is... 151.13
+The highest molar mass in the Left to Right helix at 5  is... 151.13
+The highest molar mass in the Left to Right helix at 6  is... 151.13
+The highest molar mass in the Left to Right helix at 7  is... 151.13
+The highest molar mass in the Left to Right helix at 8  is... 151.13
+The highest molar mass in the Left to Right helix at 9  is... 151.13
+The highest molar mass in the Left to Right helix at 10  is... 151.13
+The highest molar mass in the Left to Right helix at 11  is... 151.13
+The highest molar mass in the Left to Right helix at 12  is... 151.13
+The highest molar mass in the Left to Right helix at 13  is... 151.13
+The highest molar mass in the Left to Right helix at 14  is... 151.13
+The highest molar mass in the Left to Right helix is 151.13 at index 1
+[!] - Completed!
+[!] - Printing: RtoL Helix Masses & Indices...
+The highest molar mass in the Right to Left helix at 0  is... 151.13
+The highest molar mass in the Right to Left helix at 1  is... 151.13
+The highest molar mass in the Right to Left helix at 2  is... 151.13
+The highest molar mass in the Right to Left helix at 3  is... 151.13
+The highest molar mass in the Right to Left helix at 4  is... 151.13
+The highest molar mass in the Right to Left helix at 5  is... 151.13
+The highest molar mass in the Right to Left helix at 6  is... 151.13
+The highest molar mass in the Right to Left helix at 7  is... 151.13
+The highest molar mass in the Right to Left helix at 8  is... 151.13
+The highest molar mass in the Right to Left helix at 9  is... 151.13
+The highest molar mass in the Right to Left helix at 10  is... 151.13
+The highest molar mass in the Right to Left helix at 11  is... 151.13
+The highest molar mass in the Right to Left helix at 12  is... 151.13
+The highest molar mass in the Right to Left helix at 13  is... 151.13
+The highest molar mass in the Right to Left helix at 14  is... 151.13
+The highest molar mass in the Right to Left helix is 151.13 at index 1
+[!] - Completed!
+[!] - Printing Total Density...
+[!] - Printing: Left to Right Helix Density...
+[*] - The total density from left to right is... 25.119001 g/cm3.
+[!] - Printing: Right to Left Helix Density...
+[*] - The total density from right to left is... 48.833992 g/cm3.
+
+Process finished with exit code 0
+
+Run 4 - AAAGCCTAGGATAGGATCAG
+[?] - Please enter a sequence of nucleotides: AAAGCCTAGGATAGGATCAG
+[!] - Printing Helix Properties...
+[!] - Printing: Left to Right Helix Nucleotide Properties...
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+[!] - Completed!
+[!] - Printing: Right to Left Helix Nucleotide Properties...
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+[!] - Completed!
+[!] - Printing Highest Total Molar Mass...
+[!] - Printing: Molar Mass & Indices...
+[!] - Printing: LtoR Helix Masses & Indices...
+The highest molar mass in the Left to Right helix at 0  is... 135.13
+The highest molar mass in the Left to Right helix at 1  is... 135.13
+The highest molar mass in the Left to Right helix at 2  is... 135.13
+The highest molar mass in the Left to Right helix at 3  is... 151.13
+The highest molar mass in the Left to Right helix at 4  is... 151.13
+The highest molar mass in the Left to Right helix at 5  is... 151.13
+The highest molar mass in the Left to Right helix at 6  is... 151.13
+The highest molar mass in the Left to Right helix at 7  is... 151.13
+The highest molar mass in the Left to Right helix at 8  is... 151.13
+The highest molar mass in the Left to Right helix at 9  is... 151.13
+The highest molar mass in the Left to Right helix at 10  is... 151.13
+The highest molar mass in the Left to Right helix at 11  is... 151.13
+The highest molar mass in the Left to Right helix at 12  is... 151.13
+The highest molar mass in the Left to Right helix at 13  is... 151.13
+The highest molar mass in the Left to Right helix at 14  is... 151.13
+The highest molar mass in the Left to Right helix at 15  is... 151.13
+The highest molar mass in the Left to Right helix at 16  is... 151.13
+The highest molar mass in the Left to Right helix at 17  is... 151.13
+The highest molar mass in the Left to Right helix at 18  is... 151.13
+The highest molar mass in the Left to Right helix at 19  is... 151.13
+The highest molar mass in the Left to Right helix is 151.13 at index 1
+[!] - Completed!
+[!] - Printing: RtoL Helix Masses & Indices...
+The highest molar mass in the Right to Left helix at 0  is... 151.13
+The highest molar mass in the Right to Left helix at 1  is... 151.13
+The highest molar mass in the Right to Left helix at 2  is... 151.13
+The highest molar mass in the Right to Left helix at 3  is... 151.13
+The highest molar mass in the Right to Left helix at 4  is... 151.13
+The highest molar mass in the Right to Left helix at 5  is... 151.13
+The highest molar mass in the Right to Left helix at 6  is... 151.13
+The highest molar mass in the Right to Left helix at 7  is... 151.13
+The highest molar mass in the Right to Left helix at 8  is... 151.13
+The highest molar mass in the Right to Left helix at 9  is... 151.13
+The highest molar mass in the Right to Left helix at 10  is... 151.13
+The highest molar mass in the Right to Left helix at 11  is... 151.13
+The highest molar mass in the Right to Left helix at 12  is... 151.13
+The highest molar mass in the Right to Left helix at 13  is... 151.13
+The highest molar mass in the Right to Left helix at 14  is... 151.13
+The highest molar mass in the Right to Left helix at 15  is... 151.13
+The highest molar mass in the Right to Left helix at 16  is... 151.13
+The highest molar mass in the Right to Left helix at 17  is... 151.13
+The highest molar mass in the Right to Left helix at 18  is... 151.13
+The highest molar mass in the Right to Left helix at 19  is... 151.13
+The highest molar mass in the Right to Left helix is 151.13 at index 1
+[!] - Completed!
+[!] - Printing Total Density...
+[!] - Printing: Left to Right Helix Density...
+[*] - The total density from left to right is... 34.319 g/cm3.
+[!] - Printing: Right to Left Helix Density...
+[*] - The total density from right to left is... 64.80299 g/cm3.
+
+Process finished with exit code 0
+
+Run 5 - AAAGCCTCTGAGGATAGGATCAG
+[?] - Please enter a sequence of nucleotides: AAAGCCTCTGAGGATAGGATCAG
+[!] - Printing Helix Properties...
+[!] - Printing: Left to Right Helix Nucleotide Properties...
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+[!] - Completed!
+[!] - Printing: Right to Left Helix Nucleotide Properties...
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Adenine]
+Chemical Formula - [C5H5N5]
+Molar Mass - [135.13000] g/mol
+Density - [1.600] g/cm3
+
+
+[Guanine]
+Chemical Formula - [C5H5N5O]
+Molar Mass - [151.13000] g/mol
+Density - [2.200] g/cm3
+
+
+[Thymine]
+Chemical Formula - [C5H6N2O2]
+Molar Mass - [126.11500] g/mol
+Density - [1.223] g/cm3
+
+
+[Cytosine]
+Chemical Formula - [C4H5N3O]
+Molar Mass - [111.10000] g/mol
+Density - [1.550] g/cm3
+
+[!] - Completed!
+[!] - Printing Highest Total Molar Mass...
+[!] - Printing: Molar Mass & Indices...
+[!] - Printing: LtoR Helix Masses & Indices...
+The highest molar mass in the Left to Right helix at 0  is... 135.13
+The highest molar mass in the Left to Right helix at 1  is... 135.13
+The highest molar mass in the Left to Right helix at 2  is... 135.13
+The highest molar mass in the Left to Right helix at 3  is... 151.13
+The highest molar mass in the Left to Right helix at 4  is... 151.13
+The highest molar mass in the Left to Right helix at 5  is... 151.13
+The highest molar mass in the Left to Right helix at 6  is... 151.13
+The highest molar mass in the Left to Right helix at 7  is... 151.13
+The highest molar mass in the Left to Right helix at 8  is... 151.13
+The highest molar mass in the Left to Right helix at 9  is... 151.13
+The highest molar mass in the Left to Right helix at 10  is... 151.13
+The highest molar mass in the Left to Right helix at 11  is... 151.13
+The highest molar mass in the Left to Right helix at 12  is... 151.13
+The highest molar mass in the Left to Right helix at 13  is... 151.13
+The highest molar mass in the Left to Right helix at 14  is... 151.13
+The highest molar mass in the Left to Right helix at 15  is... 151.13
+The highest molar mass in the Left to Right helix at 16  is... 151.13
+The highest molar mass in the Left to Right helix at 17  is... 151.13
+The highest molar mass in the Left to Right helix at 18  is... 151.13
+The highest molar mass in the Left to Right helix at 19  is... 151.13
+The highest molar mass in the Left to Right helix at 20  is... 151.13
+The highest molar mass in the Left to Right helix at 21  is... 151.13
+The highest molar mass in the Left to Right helix at 22  is... 151.13
+The highest molar mass in the Left to Right helix is 151.13 at index 1
+[!] - Completed!
+[!] - Printing: RtoL Helix Masses & Indices...
+The highest molar mass in the Right to Left helix at 0  is... 151.13
+The highest molar mass in the Right to Left helix at 1  is... 151.13
+The highest molar mass in the Right to Left helix at 2  is... 151.13
+The highest molar mass in the Right to Left helix at 3  is... 151.13
+The highest molar mass in the Right to Left helix at 4  is... 151.13
+The highest molar mass in the Right to Left helix at 5  is... 151.13
+The highest molar mass in the Right to Left helix at 6  is... 151.13
+The highest molar mass in the Right to Left helix at 7  is... 151.13
+The highest molar mass in the Right to Left helix at 8  is... 151.13
+The highest molar mass in the Right to Left helix at 9  is... 151.13
+The highest molar mass in the Right to Left helix at 10  is... 151.13
+The highest molar mass in the Right to Left helix at 11  is... 151.13
+The highest molar mass in the Right to Left helix at 12  is... 151.13
+The highest molar mass in the Right to Left helix at 13  is... 151.13
+The highest molar mass in the Right to Left helix at 14  is... 151.13
+The highest molar mass in the Right to Left helix at 15  is... 151.13
+The highest molar mass in the Right to Left helix at 16  is... 151.13
+The highest molar mass in the Right to Left helix at 17  is... 151.13
+The highest molar mass in the Right to Left helix at 18  is... 151.13
+The highest molar mass in the Right to Left helix at 19  is... 151.13
+The highest molar mass in the Right to Left helix at 20  is... 151.13
+The highest molar mass in the Right to Left helix at 21  is... 151.13
+The highest molar mass in the Right to Left helix at 22  is... 151.13
+The highest molar mass in the Right to Left helix is 151.13 at index 1
+[!] - Completed!
+[!] - Printing Total Density...
+[!] - Printing: Left to Right Helix Density...
+[*] - The total density from left to right is... 39.292004 g/cm3.
+[!] - Printing: Right to Left Helix Density...
+[*] - The total density from right to left is... 75.126 g/cm3.
+
+Process finished with exit code 0
